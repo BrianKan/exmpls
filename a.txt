@@ -1,2 +1,3 @@
-HELL THERE WHATS UP
 
+
+   "Hello, this is an edited text file"
